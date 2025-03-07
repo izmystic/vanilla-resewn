@@ -1,32 +1,30 @@
-name: 'Parse Modpack | Action'
-description: 'Parses a modpacks pack file'
+name: "Parse Modpack | Action"
+description: "Parses a modpacks pack file"
 
 inputs:
   modpack:
-    description: 'Path to the modpack directory'
+    description: "Path to the modpack directory"
     required: false
-    default: '.'
+    default: "."
   pack-file:
-    description: 'Path to the pack config file'
+    description: "Path to the pack config file"
     required: false
-    default: 'pack.toml'
+    default: "pack.toml"
 
 outputs:
   loader:
-    description: 'Detected mod loader'
+    description: "Detected mod loader"
     value: ${{ steps.parse.outputs.loader }}
   game-version:
-    description: 'Detected game version'
+    description: "Detected game version"
     value: ${{ steps.parse.outputs.game-version }}
 
 runs:
-  using: 'composite'
+  using: "composite"
 
   steps:
-
     - name: Check Out Git Repository
       uses: actions/checkout@v3
-
 
     - name: Parse the pack.toml
       id: parse
@@ -34,6 +32,7 @@ runs:
         loaders=("fabric" "forge" "quilt" "neoforge")
         for loader in "${loaders[@]}"; do
           if [[ $(<"${{ inputs.pack-file }}") == *"$loader ="* ]]; then
+            echo "Detected loader: $loader"
             LOADER="$loader" && break
           fi
         done
