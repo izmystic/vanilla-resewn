@@ -9,4 +9,5 @@
 
 # Exclude Changelog
 
+/CHANGELOG.md
 /CHANGELOG.release.md
