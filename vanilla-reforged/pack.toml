@@ -1,0 +1,13 @@
+name = "Vanilla Reforged"
+author = "mystic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a42313094c2ca4574ea42a4010072333c7441fda042329bd78797043fbfddd91"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.131"
