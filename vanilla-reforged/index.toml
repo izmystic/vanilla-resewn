@@ -6,6 +6,16 @@ hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "d2400d3ffbfa00248556511b23af5d19694d4042e0161820d392ce24ca41c969"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "4a2fa8e0f69aff17b49922ecace2882d4e593e5a554abfccbdbc9ffd879a0cbd"
+metafile = true
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "46a3e89d8b17ef1564d323cb24a8ee8dbaf96d7b07324379d5bb0858e9996212"
 metafile = true
@@ -36,6 +46,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "d9ddc31ce048892b985873121a1ad392afcd391f43a9b9df9f1de1c0fb2bd6f4"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -43,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "fb0e421d4a9387c6edadd054462b77c604e101bdd4d4116a89f23a61ea5717cc"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
@@ -81,11 +101,6 @@ hash = "2b7e219bada386ccaef89cfc13e67a0f8420728d73bfb8519f27b8c96615182b"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "5969466d47d5673feef1bdcd1dcd6539fdf11c0d99c019c132c8ae4108e0a2c0"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
@@ -191,6 +211,11 @@ hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
 metafile = true
@@ -238,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6f63a47571142655b5030749ede2ab92c3fa830bdd3fcf3f6381e7f75f9f9ab"
 metafile = true
 
 [[files]]
