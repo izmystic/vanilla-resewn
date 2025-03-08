@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.1...vanilla-reforged-v1.0.2) (2025-03-08)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-reforged:** change village mod ([c3bcca7](https://github.com/izmystic/vanilla-reforged/commit/c3bcca70aa0b16fd4ed672d2901def5e37599324))
+
 ## [1.0.1](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.0...vanilla-reforged-v1.0.1) (2025-03-07)
 
 
