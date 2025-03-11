@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "235351026dadd2d5ea2b058ab6310b1092f6dec7d7226dcdade97d151c6d4256"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "e25e58d7d028b491ef2cb2b3c0dbf5a43afda0ef85d871a896ef08ecdcda1330"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8a9a92db01486e4f8d3a7370a6cbf6e59a12d1ef15c24b375ebce75500e78afc"
 metafile = true
@@ -48,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/better-village.pw.toml"
 hash = "d9ddc31ce048892b985873121a1ad392afcd391f43a9b9df9f1de1c0fb2bd6f4"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
 metafile = true
 
 [[files]]
@@ -207,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
+hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
 metafile = true
 
 [[files]]
@@ -227,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
+hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
 metafile = true
 
 [[files]]
@@ -247,12 +260,12 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
@@ -282,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "85392549c33b17245a842eae8791c4b21ed43e484ad00fbdb756926f4b4904ce"
+hash = "6a4be3a703371d6c526e672de7e73f97289afd39b66a1956cc49563ec1d01ffd"
 metafile = true
 
 [[files]]
@@ -347,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/wwoo.pw.toml"
-hash = "b8691fd91e8198d001e78d7ca82c9ab05aee6fb76bebb41b1b6fd6ca98ff29c9"
+hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
 
 [[files]]
