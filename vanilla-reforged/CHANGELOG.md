@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.4](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.3...vanilla-reforged-v1.0.4) (2025-03-12)
+
+
+### ⚘ Modpack Updates
+
+* **vanilla-reforged:** update Distant Horizons ([13bb62b](https://github.com/izmystic/vanilla-reforged/commit/13bb62b7978353c9a7edf54b64faad8b38cf7f94))
+* **vanilla-reforged:** update Jade ([9dd58e7](https://github.com/izmystic/vanilla-reforged/commit/9dd58e7b8051b54a1c57ef78ff44215079bc0022))
+* **vanilla-reforged:** update Lootr ([d92a8ea](https://github.com/izmystic/vanilla-reforged/commit/d92a8ea75966e43ab852ed8de66e03c20b4395fb))
+* **vanilla-reforged:** update Puzzles Lib ([dfd51d6](https://github.com/izmystic/vanilla-reforged/commit/dfd51d6f0d8082d053a9e5483ff6578af79e1bdb))
+
 ## [1.0.3](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.2...vanilla-reforged-v1.0.3) (2025-03-11)
 
 
