@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.4...vanilla-reforged-v1.0.5) (2025-03-12)
+
+
+### ⚘ Modpack Updates
+
+* **vanilla-reforged:** update Distant Horizons to load on server side ([049712e](https://github.com/izmystic/vanilla-reforged/commit/049712ea55b73a3bf452f5174447137f818b3fd8))
+
 ## [1.0.4](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.3...vanilla-reforged-v1.0.4) (2025-03-12)
 
 
