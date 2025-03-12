@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.0.3](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.2...vanilla-reforged-v1.0.3) (2025-03-11)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-reforged:** add Better Days ([fabe15c](https://github.com/izmystic/vanilla-reforged/commit/fabe15cef1b3c3e320994df42b235e54ffae3ee1))
+
+
+### ⚘ Modpack Updates
+
+* **vanilla-reforged:** update Concurrent Chunk Management Engine (NeoForge) ([4ec22ab](https://github.com/izmystic/vanilla-reforged/commit/4ec22ab908931844038e9774f8173bd49a5b5dd7))
+* **vanilla-reforged:** update Forgified Fabric API ([0935cb3](https://github.com/izmystic/vanilla-reforged/commit/0935cb3f0e3c01b8b0f43efe2e9f4b3dcddea44f))
+* **vanilla-reforged:** update ImmediatelyFast ([b68900f](https://github.com/izmystic/vanilla-reforged/commit/b68900f971e953efe2a2730ea3f086fde92481c8))
+* **vanilla-reforged:** update Lithium ([84d3fc1](https://github.com/izmystic/vanilla-reforged/commit/84d3fc1609d790f273224428b40a6f30c26e642b))
+* **vanilla-reforged:** update Puzzles Lib ([c5fd053](https://github.com/izmystic/vanilla-reforged/commit/c5fd05308689d6aa01bf0a180a8f91929617c3cd))
+* **vanilla-reforged:** update Unique Dark ([6c10fa1](https://github.com/izmystic/vanilla-reforged/commit/6c10fa1b8cacc5799e1c1b9fe8097e004f817b0d))
+
 ## [1.0.2](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.1...vanilla-reforged-v1.0.2) (2025-03-08)
 
 
