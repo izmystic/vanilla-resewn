@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fb0bb61e75cd0c9360942f81a1e23117a6419896f6c87051cbd419666df35b90"
+hash = "38522ce848fa0ae112e3e5657384f3252c079caeed039d3b2b0daaf9cbdfc71e"
 metafile = true
 
 [[files]]
