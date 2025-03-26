@@ -374,6 +374,11 @@ hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ef4ba43438de3cf876074229ddbc4c788498a3f0db8ad94cc222a2c26e04c321"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "1960c304ef7e5eb391934e0c102fd3346afe586cd5df5efb0cd7235e0a583634"
 metafile = true
