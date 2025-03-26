@@ -84,6 +84,11 @@ hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "1e35659b538887b310477e8581c8fbcec93b407c1b9ba04a7c8c05d060a33eb7"
 metafile = true
