@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-04-29)
+
+
+### ☀ Modpack Changes
+
+* **kookykraft:** fabric ([8a4706c](https://github.com/izmystic/vanilla-resewn/commit/8a4706cc4472b12270becfb19886ca6ca3577d57))
+
 ## [1.0.6](https://github.com/izmystic/vanilla-reforged/compare/vanilla-reforged-v1.0.5...vanilla-reforged-v1.0.6) (2025-03-26)
 
 
