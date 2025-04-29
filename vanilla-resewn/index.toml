@@ -14,6 +14,11 @@ hash = "7a753ad3aa3b7d586383884fb59cf8cf8c7a5ebbcf17f29478cd48c580cae542"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "2392fac629717417a29744e66f001a494304309b7742cf0cf54368278d3bf5c7"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "bb6f0e56a9aefee5c449c1b5a48f5edfb4ea1cd7e274a8227413f5ecc6389f63"
 metafile = true
