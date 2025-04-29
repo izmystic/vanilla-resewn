@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.1...vanilla-resewn-v1.0.2) (2025-04-29)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-resewn:** add Particle Rain ([d3cc0f8](https://github.com/izmystic/vanilla-resewn/commit/d3cc0f81c9f118ccacc4b949f4961cd1d59ab34d))
+* **vanilla-resewn:** add Vanilla Mashup (PBR) ([025ce6b](https://github.com/izmystic/vanilla-resewn/commit/025ce6b5b02f055d725861aa35d5fc9a912c12ae))
+* **vanilla-resewn:** remove Bobby ([bfa027e](https://github.com/izmystic/vanilla-resewn/commit/bfa027ef6cf3a486d3c24ca726c0ee796efca702))
+* **vanilla-resewn:** remove Simple Fog Control ([58f2485](https://github.com/izmystic/vanilla-resewn/commit/58f248520cfa7ca46b0bd1bf8d0967ab7bddbebb))
+
 ## [1.0.1](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.0...vanilla-resewn-v1.0.1) (2025-04-29)
 
 
