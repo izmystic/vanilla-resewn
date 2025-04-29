@@ -1,0 +1,13 @@
+name = "Vanilla Mashup (PBR)"
+filename = "Vanilla Mashup.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/leIFWh7a/versions/evuVXlzs/Vanilla%20Mashup.zip"
+hash-format = "sha512"
+hash = "11311e4a83cc58012476d34bd8292983a8ca549d4ffafe6d757f7292b2607169cb83d1092cf2804befc0cb6527105dc13a538788c55554c967ac2ef895cb0f56"
+
+[update]
+[update.modrinth]
+mod-id = "leIFWh7a"
+version = "evuVXlzs"
