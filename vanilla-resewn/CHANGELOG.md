@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.0...vanilla-resewn-v1.0.1) (2025-04-29)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-resewn:** add Trinkets Compat Layer for Accessories ([44d5c9e](https://github.com/izmystic/vanilla-resewn/commit/44d5c9e0dc7a13a5769f7601845169b8de30f637))
+
 ## 1.0.0 (2025-04-29)
 
 
