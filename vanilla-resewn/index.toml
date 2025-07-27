@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "c150316d97a98a20fc59d6aaba4c6269a184a8e6e340b3383d5c23d718d283a4"
+hash = "141bc11a38f89ee903cab997fb50ec7946a3636dfb9824d68979092d4de412de"
 metafile = true
 
 [[files]]
