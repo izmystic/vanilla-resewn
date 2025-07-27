@@ -1,5 +1,55 @@
 # Changelog
 
+## [1.0.3](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.2...vanilla-resewn-v1.0.3) (2025-07-27)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-resewn:** remove Better Clouds ([2016ae4](https://github.com/izmystic/vanilla-resewn/commit/2016ae4b8d117bc9f7196bd471e50e9cccb37b05))
+
+
+### ⚘ Modpack Updates
+
+* **vanilla-resewn:** update 3D Skin Layers ([452ad12](https://github.com/izmystic/vanilla-resewn/commit/452ad126b0d61a9f411da30c66d6578e0c5b0a65))
+* **vanilla-resewn:** update Accessories ([8c837e1](https://github.com/izmystic/vanilla-resewn/commit/8c837e1c091b7efc14877930ceef3e2d7a7c11d9))
+* **vanilla-resewn:** update Accessorify ([6528d83](https://github.com/izmystic/vanilla-resewn/commit/6528d83d3931045dc00fa465be67a814162d511c))
+* **vanilla-resewn:** update Advanced Netherite ([b6075f6](https://github.com/izmystic/vanilla-resewn/commit/b6075f64fa42ac5da0873bfa5a218e525d59c5ee))
+* **vanilla-resewn:** update AmbientSounds ([a7d16d4](https://github.com/izmystic/vanilla-resewn/commit/a7d16d4e0a9e81090eeb11e60b6b73283c1daada))
+* **vanilla-resewn:** update Amecs Reborn ([35b1a05](https://github.com/izmystic/vanilla-resewn/commit/35b1a05b99ecf9a054b652b0ad31f6ef238ef299))
+* **vanilla-resewn:** update BadOptimizations ([6f2e833](https://github.com/izmystic/vanilla-resewn/commit/6f2e83363cb7f1a726b37a8a96c0c49dbdf42819))
+* **vanilla-resewn:** update Balm ([5e555dc](https://github.com/izmystic/vanilla-resewn/commit/5e555dcb7cf82cb3686f0c868e011c05deee7f71))
+* **vanilla-resewn:** update Better Villages ([345fb37](https://github.com/izmystic/vanilla-resewn/commit/345fb37f746fa9b3e58bad46af768c1d3111ea47))
+* **vanilla-resewn:** update Bookshelf ([38af4b8](https://github.com/izmystic/vanilla-resewn/commit/38af4b8b94bc6e953928ff5b8ff7141f048cd14f))
+* **vanilla-resewn:** update Chat Heads ([f780711](https://github.com/izmystic/vanilla-resewn/commit/f7807112147d23533f930eb5aa6be4a7d8bdc20e))
+* **vanilla-resewn:** update Client Sort ([d2372d6](https://github.com/izmystic/vanilla-resewn/commit/d2372d62c65d13f59ca15b403d50d64e9beea995))
+* **vanilla-resewn:** update Concurrent Chunk Management Engine ([d25d8ff](https://github.com/izmystic/vanilla-resewn/commit/d25d8ff100f8ca1e5d8eb38fe632c339b5ddf7e1))
+* **vanilla-resewn:** update CreativeCore ([2200ea7](https://github.com/izmystic/vanilla-resewn/commit/2200ea792e09bc375eb4a4833305581a63f41dfb))
+* **vanilla-resewn:** update Distant Horizons ([c6b44a4](https://github.com/izmystic/vanilla-resewn/commit/c6b44a48f95d0bbf1f924e59910cb7d52a3131ae))
+* **vanilla-resewn:** update Entity Culling ([cef4036](https://github.com/izmystic/vanilla-resewn/commit/cef40365b384f71782d422c99861606b1fc14675))
+* **vanilla-resewn:** update Fabric API ([e75bbb3](https://github.com/izmystic/vanilla-resewn/commit/e75bbb35621bc8aa5a969a8940b941782b737187))
+* **vanilla-resewn:** update Fabric Language Kotlin ([be87da2](https://github.com/izmystic/vanilla-resewn/commit/be87da2639d2e833495668830383bd62707c09a2))
+* **vanilla-resewn:** update First-person Model ([b3ec9f4](https://github.com/izmystic/vanilla-resewn/commit/b3ec9f4cc65a99ed1b9526c68ee60623dfe4eff2))
+* **vanilla-resewn:** update Forge Config API Port ([9726441](https://github.com/izmystic/vanilla-resewn/commit/97264411fe8c8c020e886d55928e3df68f03ab37))
+* **vanilla-resewn:** update ImmediatelyFast ([3b77d8b](https://github.com/izmystic/vanilla-resewn/commit/3b77d8b7b61ba6eaf5c7c9ecde4139fedd82fd56))
+* **vanilla-resewn:** update Jade 🔍 ([c51c103](https://github.com/izmystic/vanilla-resewn/commit/c51c1034c2b67976f9ba28d3ce1ddc0c8a206341))
+* **vanilla-resewn:** update LambDynamicLights ([510a5e0](https://github.com/izmystic/vanilla-resewn/commit/510a5e0e2bdbce8ffacadd270e8f333e0ee40b81))
+* **vanilla-resewn:** update Lithosphere ([dbe78ea](https://github.com/izmystic/vanilla-resewn/commit/dbe78ea7cf8de998d14d24de7bf7a06c1ad112ad))
+* **vanilla-resewn:** update ModernFix ([62664e0](https://github.com/izmystic/vanilla-resewn/commit/62664e07b68b01c04b3b4e38ddf792e223047e3f))
+* **vanilla-resewn:** update Not Enough Animations ([1beb005](https://github.com/izmystic/vanilla-resewn/commit/1beb005232ca1340235172de25ebda15e4527723))
+* **vanilla-resewn:** update Particle Rain ([afbcac5](https://github.com/izmystic/vanilla-resewn/commit/afbcac57fba05fbdd75058fbd59eafce724fafed))
+* **vanilla-resewn:** update Photon Shaders ([0236d8c](https://github.com/izmystic/vanilla-resewn/commit/0236d8cfdf721072a3cbaa39a15c4ed467a6bfb2))
+* **vanilla-resewn:** update Prickle ([39fb0fc](https://github.com/izmystic/vanilla-resewn/commit/39fb0fca4cc983d9157df18b0fb078e987f0fad5))
+* **vanilla-resewn:** update Puzzles Lib ([0c8329f](https://github.com/izmystic/vanilla-resewn/commit/0c8329f9f2363915f4e041a5038c90d696a1ecc0))
+* **vanilla-resewn:** update Shulker Box Tooltip ([f61a768](https://github.com/izmystic/vanilla-resewn/commit/f61a768a15d4e8b56f10adb5dba469660b527b43))
+* **vanilla-resewn:** update Sophisticated Backpacks ([d2f0fef](https://github.com/izmystic/vanilla-resewn/commit/d2f0feffbebb18ed9b82f7b4898ce7e5ce7f4272))
+* **vanilla-resewn:** update Sophisticated Core ([7ca0b21](https://github.com/izmystic/vanilla-resewn/commit/7ca0b21bd01528c0484fa53751bffde614ceac50))
+* **vanilla-resewn:** update Sound Physics Remastered ([d2ba880](https://github.com/izmystic/vanilla-resewn/commit/d2ba8805d976ff4a0d09e6e5f8c8a93435ee4a89))
+* **vanilla-resewn:** update Unique Dark ([64711f8](https://github.com/izmystic/vanilla-resewn/commit/64711f87fe989c38fcf969954e9723dffa53fb69))
+* **vanilla-resewn:** update Visual Workbench ([b6e6bd1](https://github.com/izmystic/vanilla-resewn/commit/b6e6bd1e11acaf75440d08995789a1986082b1e7))
+* **vanilla-resewn:** update Wavey Capes ([0b9ca3b](https://github.com/izmystic/vanilla-resewn/commit/0b9ca3b0ed0b1f97501e1fcafe79d00de437c992))
+* **vanilla-resewn:** update YetAnotherConfigLib ([2c634fe](https://github.com/izmystic/vanilla-resewn/commit/2c634fefcb869a44b324ee0be2e6ed7c92a58429))
+* **vanilla-resewn:** update You're in Grave Danger ([1cfa861](https://github.com/izmystic/vanilla-resewn/commit/1cfa8614c7b4bd6cac204ffa4005c9cc72fd5d27))
+
 ## [1.0.2](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.1...vanilla-resewn-v1.0.2) (2025-04-29)
 
 
