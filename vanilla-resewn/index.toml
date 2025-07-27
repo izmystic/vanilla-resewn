@@ -234,6 +234,11 @@ hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
 metafile = true
