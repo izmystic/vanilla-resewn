@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.3...vanilla-resewn-v1.0.4) (2025-07-27)
+
+
+### ☀ Modpack Changes
+
+* **vanilla-resewn:** add Fzzy Config ([1607de6](https://github.com/izmystic/vanilla-resewn/commit/1607de66d1539eb69ea304013b274810d0905fcc))
+
 ## [1.0.3](https://github.com/izmystic/vanilla-resewn/compare/vanilla-resewn-v1.0.2...vanilla-resewn-v1.0.3) (2025-07-27)
 
 
