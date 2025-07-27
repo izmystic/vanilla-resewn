@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
-hash = "60f61cf54756f415935c7ad41fe7ab7314e054a1c9dcd3c6e4f71846280db0d7"
+hash = "b56def9158e1845dac01aeceee96dd00ac9b0b5a6345aa02a12721b83a7d4513"
 metafile = true
 
 [[files]]
