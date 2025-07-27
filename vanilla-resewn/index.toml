@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessorify.pw.toml"
-hash = "18acb87814bd2684f97b59e5ad0a22164b6fbe15376d6ddc0423a6658c2c3d3c"
+hash = "a6daa750211c5196ff17b0f4a5e31ad6d9e9ec3f045d1735352b8cc1ee649325"
 metafile = true
 
 [[files]]
