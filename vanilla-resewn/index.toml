@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "3080fc64ddba3a0aeec556c78b28adef6cc583946aec7477367e0bc645cbc5e3"
+hash = "9d085cf4bb5c79e6ddd97834b369b367dbb8b981eb77176559665e8aa9c62c02"
 metafile = true
 
 [[files]]
