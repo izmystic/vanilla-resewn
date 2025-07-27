@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-village.pw.toml"
-hash = "82d5fc33cecaa2ad46fcc9fae77fa0acc3800c1e0373e4246a6f5f0bbf3f76b2"
+hash = "d0f305db5bfc8fa3064f5ce67e355341462c26b5f06edb580b5a5a7d445c90cb"
 metafile = true
 
 [[files]]
