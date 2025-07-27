@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs-reborn.pw.toml"
-hash = "5aaf6ffd5d090ae507f78e9fc87dec240f0d41a287fce5c4f554a20dc4b39d0e"
+hash = "d823dd928b679c2098fb95d19e1df8420015beebf1b6b565c65add89995b3ab1"
 metafile = true
 
 [[files]]
