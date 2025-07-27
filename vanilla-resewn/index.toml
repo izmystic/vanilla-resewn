@@ -69,11 +69,6 @@ hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "128d9dfd2156ffa54cea7621d3c3c2ac42d9865b3363996c08c70c5a52af98d0"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
 metafile = true
